@@ -76,10 +76,3 @@ This repository demonstrates how a Kubernetes platform can be structured to supp
 It can be used as a starting point for building more advanced Kubernetes platforms including monitoring, CI/CD pipelines and infrastructure automation.
 
 ---
-
-## Future Improvements
-
-• Helm chart examples  
-• Terraform cluster provisioning  
-• Monitoring stack (Prometheus + Grafana)  
-• CI/CD pipeline examples
